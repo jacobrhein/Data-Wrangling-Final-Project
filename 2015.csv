@@ -1,0 +1,51 @@
+﻿jurisdiction1,Democrat_Lean1,Republican_Lean1,Democratic_Advantage1,N1,Classification1,Year1
+Vermont,51.9,30.2,21.7,571,Solid Dem,2015
+Massachusetts,50.8,32.2,18.6,"3,778",Solid Dem,2015
+Maryland,49.9,34.9,15,"3,039",Solid Dem,2015
+NewYork,49.9,31.5,18.4,"10,190",Solid Dem,2015
+Delaware,45.1,39.3,5.8,504,Lean Dem,2015
+Hawaii,51.6,30.8,20.8,542,Solid Dem,2015
+California,48.1,32.6,15.5,"17,507",Solid Dem,2015
+Connecticut,47.3,36.8,10.5,"1,939",Solid Dem,2015
+Illinois,46.8,36,10.8,"5,616",Solid Dem,2015
+RhodeIsland,48.3,28.9,19.4,600,Solid Dem,2015
+Oregon,45,39.2,5.8,"2,972",Lean Dem,2015
+NewJersey,46.5,36.3,10.2,"4,706",Solid Dem,2015
+Washington,46.6,37.5,9.1,"4,366",Lean Dem,2015
+NewMexico,48.1,36.5,11.6,"1,473",Solid Dem,2015
+Michigan,42.7,38.7,4,"5,024",Competitive,2015
+Minnesota,42.9,42.4,0.5,"3,267",Competitive,2015
+Maine,38.8,42.5,3.9,-3.7,Competitive,2015
+Pennsylvania,44.6,41.6,3,"8,294",Competitive,2015
+Wisconsin,42.6,43.3,-0.7,"3,633",Competitive,2015
+NorthCarolina,41.5,41.3,0.2,"5,716",Competitive,2015
+Florida,41.4,40.7,0.7,"10,580",Competitive,2015
+Virginia,40.9,42.5,-1.6,"5,151",Competitive,2015
+Arizona,40,41.4,-1.4,"4,273",Competitive,2015
+Colorado,41.6,43,-1.4,"3,370",Competitive,2015
+Georgia,39.8,43.7,-3.9,"5,215",Competitive,2015
+Nevada,39.4,43.5,-4.1,"1,494",Competitive,2015
+Texas,37.4,42.9,-5.5,"13,314",Lean Rep,2015
+NewHampshire,37.6,46.4,-8.8,819,Lean Rep,2015
+Louisiana,41.1,42.7,-1.6,"2,534",Competitive,2015
+Ohio,42.2,42,0.2,"6,418",Competitive,2015
+Iowa,39.6,42.9,-3.3,"1,974",Competitive,2015
+Indiana,38.2,44.2,-6,"3,934",Lean Rep,2015
+Missouri,37.6,45.5,-7.9,"3,416",Lean Rep,2015
+Alaska,33.5,50.7,-17.3,593,Solid Rep,2015
+WestVirginia,39.6,45.7,-6.1,"1,253",Lean Rep,2015
+Kentucky,42.2,45,-2.8,"2,697",Competitive,2015
+Mississippi,38.8,44,-5.2,"1,762",Lean Rep,2015
+Tennessee,36.1,46.4,-10.3,"4,379",Solid Rep,2015
+SouthCarolina,35.4,47.9,-12.5,"2,839",Solid Rep,2015
+Nebraska,39.2,47.9,-8.7,"1,399",Lean Rep,2015
+Arkansas,38.5,45.4,-6.9,"1,964",Lean Rep,2015
+Montana,33.2,47.6,-14.4,"1,044",Solid Rep,2015
+Kansas,34.9,48,-13.1,"1,678",Solid Rep,2015
+Alabama,34.1,51.4,-17.3,"3,099",Solid Rep,2015
+Oklahoma,35.9,49.3,-13.4,"2,623",Solid Rep,2015
+NorthDakota,30.8,51.6,-20.8,488,Solid Rep,2015
+SouthDakota,36.1,51.9,-15.8,542,Solid Rep,2015
+Idaho,25.8,55.8,-30,"1,198",Solid Rep,2015
+Utah,26.1,56,-29.9,"2,165",Solid Rep,2015
+Wyoming,27.8,59.6,-31.8,533,Solid Rep,2015
